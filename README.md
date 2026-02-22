@@ -4,41 +4,97 @@ Desafio de Projeto - Git e GitHub
 
 Este repositório foi criado como parte do desafio prático do bootcamp, com o objetivo de reforçar os conhecimentos em Git e GitHub.Estou em processo de transição de carreira para a área de Quality Assurance e este repositório faz parte do meu processo de aprendizado.
 
+***
+
 # Anotações sobre Git e GitHub 📚
 
-### Git GitHub
+📌 O que é Git?
+---------------
 
-São diferentes, porém são complementares.
+Git é um sistema de controle de versão distribuído que permite:
 
-1. Controle de visão
-2. Armazenamento em nuvem
-3. Trabalho em equipe
-4. Melhorar seu código
-5. Reconhecimento
+* Registrar alterações em arquivos
 
-### Navegação básica no terminal e instalação
+* Voltar para versões anteriores
 
-#### GUI X CLI
+* Trabalhar em equipe sem sobrescrever código
 
-Windowns: cd (Mudar de diretório) / dir (Listar) / mkdir (criar diretórios) / del/rmdir (deletar) / cd .. (voltar a pastar anterior)
+* Criar ramificações (branches) para desenvolvimento paralelo
 
-SHA1 - Secure Hash Algorithm
+Ele funciona localmente na máquina do desenvolvedor.
 
-Conjunto de funções hash criptográficas projetadas pela NSA (Agencia de segurança nacional dos EUA)
+* * *
 
-### Comandos principais do Git 💻
+📌 O que é GitHub?
+------------------
 
-* Inicializar repositório - git init
-* Verificar Status - git status
-* Adicionar arquivos - git add.
-* Criar Commit - git commit -m "mensagem"
-* Enviar para o GitHub - git push -u origin main
+GitHub é uma plataforma online que hospeda repositórios Git.
 
-O que eu aprendi 🚀
+Ele permite:
 
-* **Criar repositório local**
-* **Versionar arquivos**
-* **Criar commits**
-* **Conectar ao GitHub**
-* **Enviar alterações para a nuvem**
-* **Atualizar repositórios
+* Armazenar projetos na nuvem
+
+* Compartilhar código com outras pessoas
+
+* Colaborar em equipe
+
+* Controlar versões remotamente
+
+* Criar portfólio profissional
+
+* * *
+
+📌 Conceitos importantes
+------------------------
+
+### 🔹 Repositório
+
+Local onde o projeto e seu histórico de versões ficam armazenados.
+
+### 🔹 Commit
+
+Registro de uma alteração feita no projeto.
+
+### 🔹 Branch
+
+Linha paralela de desenvolvimento dentro do mesmo projeto.
+
+### 🔹 Merge
+
+Junção de uma branch com outra.
+
+### 🔹 Clone
+
+Cópia de um repositório remoto para a máquina local.
+
+* * *
+
+📌 Fluxo básico de trabalho com Git
+-----------------------------------
+
+1. Criar pasta do projeto
+
+2. Executar: git init
+
+3. Criar ou modificar arquivos
+
+4. Executar: git add .
+
+5. Executar: git commit -m "mensagem"
+
+6. Conectar ao GitHub
+
+7. Executar: git push
+   
+   
+
+* * *
+
+📌 Observação pessoal
+---------------------
+
+Compreendi que o Git funciona como um histórico inteligente do projeto, permitindo salvar versões e organizar alterações de forma segura.
+
+
+
+
