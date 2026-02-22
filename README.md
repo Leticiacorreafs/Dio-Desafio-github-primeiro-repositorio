@@ -19,10 +19,6 @@ Git é um sistema de controle de versão distribuído que permite:
 
 * Trabalhar em equipe sem sobrescrever código
 
-* Criar ramificações (branches) para desenvolvimento paralelo
-
-Ele funciona localmente na máquina do desenvolvedor.
-
 * * *
 
 📌 O que é GitHub?
@@ -55,14 +51,6 @@ Local onde o projeto e seu histórico de versões ficam armazenados.
 
 Registro de uma alteração feita no projeto.
 
-### 🔹 Branch
-
-Linha paralela de desenvolvimento dentro do mesmo projeto.
-
-### 🔹 Merge
-
-Junção de uma branch com outra.
-
 ### 🔹 Clone
 
 Cópia de um repositório remoto para a máquina local.
@@ -78,7 +66,7 @@ Cópia de um repositório remoto para a máquina local.
 
 3. Criar ou modificar arquivos
 
-4. Executar: git add .
+4. Executar: git add *
 
 5. Executar: git commit -m "mensagem"
 
